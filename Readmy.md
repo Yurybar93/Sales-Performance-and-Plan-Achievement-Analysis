@@ -1,9 +1,3 @@
-
----
-
-### README (на немецком)
-
-```markdown
 # Analyse der Verkaufsleistung und der Planerfüllung
 
 ## Überblick
